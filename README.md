@@ -1,5 +1,5 @@
 # SendToPdfMerger
-merge multiple PDF files into one as send-to extension in Windows Explorer
+merge multiple PDF files into one from "Send-to" in Windows Explorer
 
 Python must be installed. 
 Get it here: https://www.python.org/downloads/
