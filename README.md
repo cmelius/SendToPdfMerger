@@ -25,3 +25,5 @@ Result: YYYY-MM-DD-HH-MM-SS-merged.pdf
 
 have fun ....
 
+# License and Copyright
+This is free software.
